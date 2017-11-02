@@ -1,0 +1,11 @@
+.navigation{
+	background-color: #2F3BA1;
+	}
+
+.navigation  .nav-link{
+	color: #A09F9D;
+	}
+
+.navigation .navbar-nav .active>.nav-link {
+	color: #FFFFFF;
+	}
