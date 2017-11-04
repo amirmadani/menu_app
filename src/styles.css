@@ -45,7 +45,7 @@
       /* Uncomment for 3D effect */
       /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
     }
-
+/*
 @media only screen and (min-width: 768px) {
   .indented{
     padding-left: 6rem;
@@ -65,4 +65,10 @@
     padding-left: 1rem;
     padding-right: 1rem;
   }
+}
+*/
+
+.indented{
+  padding-left:10%;
+  padding-right:10%;
 }
