@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContentComponent } from './content/content.component';
 import { TitleComponent } from './title/title.component';
+import { MenuService } from './services/menu.service';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,7 @@ import { TitleComponent } from './title/title.component';
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [ MenuService ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
