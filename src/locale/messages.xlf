@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="087a0d9146c0a7c6459ea9778963f466ded41c21" datatype="html">
+        <source>Home </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eb98135e35af26a9a326ee69bd8ff104d36dd8ec" datatype="html">
+        <source>(current)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="45c581a4eb876299e9b35ebe95957efb91474fba" datatype="html">
+        <source></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
+        <source>About</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\footer\footer.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7efd96bba17d8c5deb7f72fa0caadcc1acadea2f" datatype="html">
+        <source>
+      Menu
+    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4dfb52fdcf33d6e7e11ddd0dc9ec3aae8637c23b" datatype="html">
+        <source>Menu1</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3795a3f979e3d3abd60519d7f050b0dd883aa21c" datatype="html">
+        <source>Menu2</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34746fb1c7f3d2194d99652bdff89e6e14c9c4f4" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\nav\nav.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\footer\footer.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\footer\footer.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41aac9cecddc9f345c263d3742192e68e227e413" datatype="html">
+        <source>Menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\footer\footer.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6371f05dd3669f649978431c7c36750763b5bbca" datatype="html">
+        <source>Our Address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\footer\footer.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e570a85e86f0f1761dc1317ac386360f71c45a53" datatype="html">
+        <source>© Copyright 2015 Ristorante Il Fornello</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\footer\footer.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="33e69c7872087b1e3d05dc51992cd154608b3a98" datatype="html">
+        <source>Our Unique Culinary Creations</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="56cff89b7e464c6daf6365a5cea353e671707641" datatype="html">
+        <source>Fichipizza</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="30738eda09a2e0f43897896732f509e701235dcf" datatype="html">
+        <source>A unique combination of Mediterranean and Italian pizza, topped with Mascarphone, proscuitto, figs, grando panado, honey and arugula.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="673c6acb401c6f5bbd4a750fddf5ea59bbcf5047" datatype="html">
+        <source>More »</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4a24b0887b34a72b7fea0940f792b9c21410bddb" datatype="html">
+        <source>This Month&apos;s Promotions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7b4be805605b56463232a304f9eb6f55414ccb5c" datatype="html">
+        <source>Weekend Grand Buffet</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5be9c079a2a407c1695c3a15dd1e117792bc2dca" datatype="html">
+        <source>Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="86db554ad360eaa371e7769e9c293ed7c8f85fdc" datatype="html">
+        <source>Meet our Culinary Specialists</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2ec454aaa7cfa807f76e029e2771437ad52cbd8e" datatype="html">
+        <source>Tommy McHugh</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8cf783e4df02ed97302fb3bdbceab0f8140aa1b3" datatype="html">
+        <source>Executive Chef</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9e99793833d08ae6336510ae89ed2f2bc2a57dbe" datatype="html">
+        <source>Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Mediterranean-Italian experiences. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\content\content.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1d8dd8f731a74c2eeb769cea97c28b42e01de0eb" datatype="html">
+        <source>Ristorante Il Fornello</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\title\title.component.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0cafd7044bf9dd32bf043f838d1099455bfa1afd" datatype="html">
+        <source>Simple, fresh ingredients, prepared and cooked with love and passion become truly great dishes, from wood-oven baked Neapolitan style pizzas to pastas, entrees!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app\title\title.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
