@@ -9,7 +9,8 @@ describe('MenuService', () => {
     });
   });
 
-  it('should be created', inject([MenuService], (service: MenuService) => {
+  it('should be created and have 3', inject([MenuService], (service: MenuService) => {
     expect(service).toBeTruthy();
+    expect(service.getMenu().length).toEqual(3);
   }));
 });
